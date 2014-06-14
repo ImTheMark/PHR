@@ -3,7 +3,7 @@ package com.example.phr.adapter;
 import java.util.List;
 
 import com.example.phr.R;
-import com.example.phr.models.DailyJournal;
+import com.example.phr.model.DailyJournal;
 
 import android.content.Context;
 import android.content.Intent;

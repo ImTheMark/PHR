@@ -1,4 +1,4 @@
-package com.example.phr.models;
+package com.example.phr.model;
 
 import android.graphics.drawable.Drawable;
 

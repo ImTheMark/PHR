@@ -2,9 +2,11 @@ package com.example.phr;
 
 import java.util.ArrayList;
 import java.util.List;
+
 import com.example.phr.R;
 import com.example.phr.adapter.JournalAdapter;
-import com.example.phr.models.DailyJournal;
+import com.example.phr.model.DailyJournal;
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
